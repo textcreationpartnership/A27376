@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Bellowings of a vvild-bull, or, Scroggs's roaring lamentation for being impeached of high-treason</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27376</idno>
+            <idno type="STC">Wing B1859</idno>
+            <idno type="STC">ESTC R22820</idno>
+            <idno type="EEBO-CITATION">12744630</idno>
+            <idno type="OCLC">ocm 12744630</idno>
+            <idno type="VID">93208</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27376)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93208)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 375:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Bellowings of a vvild-bull, or, Scroggs's roaring lamentation for being impeached of high-treason</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688 --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:93208:1"/>
+            <!-- PDF PAGE 51 -->
+            <pb facs="tcp:93208:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 51 -->
+            <head>THE BELLOWINGS OF A VVild-Bull: OR, SCROGGS's ROARING LAMENTATION FOR BEING IMPEACHED OF High-Treaſon.</head>
+            <p>WHAT a damn'd Fool was I, that I did not run away in time? Could not I have had the Wit of <hi>Wakeman,</hi> put my ten thouſand Bagg of <hi>Guineys</hi> under my Arm, and Trooped off to drink the Waters of <hi>Burboon?</hi> A dull Beaſt! to ſtay thus to be Nooz'd: I was often told of a <hi>Parliament,</hi> but by the <hi>Popes Toe,</hi> I never believed that the King would call one: Now Mr. <hi>Courtiers</hi> where are you to aſſiſt me? You that have made uſe of my <hi>Munkies</hi> Foot, to ſcrape the Cheſt-nut out of the Fire, you'l behang'd your ſelves, ere you'l part with your <hi>Guineys</hi> to help me at a dead lift. I ſee now I was a mear <hi>Ox</hi> out up<g ref="char:EOLhyphen"/>on it, to be outwitted thus! How did they promiſe to ſtand by me, Yes, yes, ſo they will, and laugh in their Sleeves, to ſee me Hang'd.</p>
+            <p>Was it for this, I perverted Juſtice did things contrary to both the Law of God and Men? Oh, Oh, Oh, a PARLIAMENT, a PARLIAMENT! what a dreadful Sound does that Word leave in
+<pb n="2" facs="tcp:93208:2"/>
+               <!-- PDF PAGE 52 -->
+a Guilty Ear. I did not believe they would have proved ſuch a ſort of Men, as I find they are: A <hi>Probing,</hi> a ſearching PARLIA<g ref="char:EOLhyphen"/>MENT! Would I might <hi>Curſe</hi> 'um ſufficiently, and vent my ſelf as I uſed to do on the Bench, againſt thoſe little people that uſed to teaze me. Who would ever have thought, this PARLIA<g ref="char:EOLhyphen"/>MENT would prove what it has done? When my Brother of the <hi>North,</hi> and I, were ſent down from the Houſe of Lords, in a Meſ<g ref="char:EOLhyphen"/>ſage to the Houſe of Commons, I viewed their Countenances, and my thought they did not frown upon me, I imagined that the bitterneſs of Death was paſt, when I was entertained ſo Civilly; but, by <hi>my Bagg of Guineys</hi> I was wickedly miſtaken!</p>
+            <p>I find a PARLIAMENT is not ſo eaſily to be Bribed, tho Mr. <hi>Courtier</hi> had told me they had once upon a time found out a way to Bribe PARLIAMENTS, but it ſeems, that Trick would not paſs upon this PARLIAMENT, the more's my ill Luck.</p>
+            <p>Oh! Oh! Oh! What will become of me? I can expect no Mer<g ref="char:EOLhyphen"/>cy, becauſe I had none my Self, now all my Crimes will be ennu<g ref="char:EOLhyphen"/>merated againſt me: Nay, who would think it, I find my own Conſcience too like an uncivil <hi>Bandogg</hi> flying in my Face, and ready to tear out my Throat!</p>
+            <p>I was never more drunk with Wine (and Sir <hi>George</hi> and my Part<g ref="char:EOLhyphen"/>ner the Goaler, have many times duſted it away) than I am now with <hi>Poſſion.</hi> Oh! How I could tear 'um to pieces for thus diſtur<g ref="char:EOLhyphen"/>bing me. I had hoped by this time to have ſeen the days of Queen <hi>Mary,</hi> that I might have pil'd thoſe curſed barking Doggs, that uſed to torment me, up in heaps like Faggots, and then have ſet them on Fire: Oh! I thought to have made the World to have Trembled, and to have fill'd the <hi>Priſon and Goals</hi> with them all.</p>
+            <p>I would have bin worſe to them than Bloody <hi>Bonner.</hi> I would have grounded them, could I have had my Will, for taking No<g ref="char:EOLhyphen"/>tice of my Actions on the Bench.</p>
+            <p>But now all theſe CURRS are got looſe and are ready to whor<g ref="char:EOLhyphen"/>ry me. By Heavens! what ſhall I do? They bring all my Crimes publickly on the Stage, they forget nothing, Pox of their Memories.</p>
+            <p>There is <hi>Care,</hi> a Diveliſh Rogue, the Pope, the — and I, will never forget him, he remembers my Box for Suppreſſing his Pac<g ref="char:EOLhyphen"/>quet, and (if I could I would have hang'd him too, yet,) next to <hi>Wakemans</hi> Jobb, and the Jury, that was one of the beſt peices of Service, that ever I did in my Life. There is <hi>Smith</hi> and <hi>Harris,</hi> Cry out, <hi>no Bail, no Bad.</hi> Oh! That I could have ſtop'd their Mouths with <hi>Fire Balls,</hi> or have Hang'd them out of the way, as well as <hi>Fin'd</hi> them, then they had not liv'd to have done me this
+<pb n="3" facs="tcp:93208:2"/>
+               <!-- PDF PAGE 52 -->
+miſchief. There is one <hi>Curtis</hi> his Wife too, a Plaguy Jade, whom I thought I had Hamperd pretty well: I Jailed her, and offer'd to bring Knights of the Poſt to Swear her Husband was Dead, but now I find both He and She are yet Alive. Nay the Houſe will not ſo much as forget my diſcharging the <hi>Middleſex</hi> Jury, againſt Law or Preſident, nor any other of my Crimes. But have Printed and publiſhed them to the World, that I may be ſeen in my proper Colours!</p>
+            <p>A Plague of my Starrs, that ever I ſhu'd be Born <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Time of Printing! by <hi>Wakemans</hi> Soul, I hope <hi>he's</hi> Frying in Hell, that firſt invented that Heretical Art; I thought to have ſent all thoſe mangy Bookſellers, Printers, <hi>&amp;c.</hi> to the Devil by whole Sale, and to have ſet up an <hi>Inquiſition</hi> againſt Printing.</p>
+            <p>If the Rogues were then ſo bold with me, notwithſtanding all my ſeverity, what will they now do? they murther'd my Name before, and wrote <hi>Scrggs,</hi> when they had ſome fear of me, but now they write plain <hi>SCROGGS,</hi> and ſet it in Capital Letters; they leave my Titles too, and ſeem to care no more for me, than for a Butchers-Brat in a Hand basket. Now ſhall I have more <hi>Scroggs</hi> upon <hi>Scroggs,</hi> Satyrical <hi>Poems,</hi> wicked <hi>Lampoons,</hi> odious <hi>New-years Gifts,</hi> damnable <hi>Looking-glaſſes,</hi> plaguy <hi>Memorandums,</hi> and ſuch like, bawled about the Town. Thus theſe Rogues, Villains. Doggs, Raſcals and Heretical Currs, will perpetuate my Memory when I would be forgotten. I cannot leave my wonted Language, they have put me into a <hi>Fuſtian Fume<g ref="char:punc">▪</g>
+               </hi> worſe than when I <hi>abhorred</hi> Petitioning, and railed ſo bravely againſt Petitions. But ſtay, let me think of ſome thing to comfort my ſelf; I have ſome fellow ſuf<g ref="char:EOLhyphen"/>ferrers 'tis true, but alas! they are ſcarce taken notice of, 'tis I bear the burthen; O! the People have a dear love for me, I ſee they ſtand ready to devour me; ſome Cordial quickly, <hi>Sirrah</hi> I am ready to faint, O! my Heart grows cooler, I can Roar and Bellow no longer, a diveliſh <hi>Qualm</hi> has ſeized me. Hah! <hi>Impeached of High Treaſon,</hi> what! what! 'tis no jeſting matter, a <hi>Lord Chief Juſtice!</hi> But what of that? my <hi>Gown</hi> will not defend me. I thought the Lords in the <hi>Tower</hi> had been ſafe enough, and I thought I had pret<g ref="char:EOLhyphen"/>ty well Confounded the PLOT, and affronted the Kings Evidence, but I ſee a Parliament can do ſtrange things; they have taken off one of the Heads of the <hi>Lords</hi> already, that I have ſeen: they will have Juſtice done, without any reſpecting of perſons. What will they <hi>Hang</hi> a Lord Chief Juſtice? aye, aye, they fear nothing, Nay, I am told of <hi>Thorp</hi> and <hi>Triſilian, Emſon</hi> and <hi>Dudly,</hi> and ſuch like men: O terrible! O terrible! <hi>Triſilan</hi> was a <hi>Lord Chief Juſtice,</hi> and was Hang'd at <hi>Tyburn,</hi> a very ill Example. I never thought things would have been brought to this paſs; 'tis a Plague I did not fore<g ref="char:EOLhyphen"/>ſee!
+<pb n="4" facs="tcp:93208:3"/>
+               <!-- PDF PAGE 53 -->
+I had many hopes and aſſurances that this would never be: truly I had imagined farr other things in my Head, but I ſee I was miſtaken, all things in this World look ſcurvily and ill, and with a dreadful Hue: but my <hi>Conſcience</hi> is alſo preſenting Viſions before the Eye of my Mind, and my ſecret Sins and Debaucheries are ſe<g ref="char:EOLhyphen"/>in order before my Eyes: Nay, my Memory is alſo ſtrangely toucht<g ref="char:EOLunhyphen"/>ed, and I remember I have read in the Scriptures, ſuch like places, which might have deterred me from my Wickedneſs. <hi>They that plow Iniquity and ſow Wickedneſs reap the ſame.</hi> Job. 4.8. <hi>We are wea<g ref="char:EOLhyphen"/>ried in the way of Iniquity and Perdition, and the way of God have we not known. What profit have we received of all our Pomp and Pride? They are now paſt as a ſhaddow, and as a Meſſenger that rideth in Poſt, and we are conſumed in our own Iniquities. Thou ſhalt do no unrighteouſneſs in Judgment, thou ſhalt not reſpect the perſon of the poor, nor honour the per<g ref="char:EOLhyphen"/>ſon of the mighty, but in righteouſneſs ſhalt thou judge thy Neighbour. Cur<g ref="char:EOLhyphen"/>ſed is he that perverteth Judgment. To do juſtice and judgment, is more acceptable to the Lord than Sacrifice. Rob not the poor, becauſe he is poor, neither oppreſs the afflicted in the Gate. The integrity of the upright ſhall guid them, but the perverſneſs of Trangreſſors ſhall deſtroy them. I know your mighty Sins, you take a Bribe and turn a ſide the poor in the Gate from their Right.</hi> Alas! alas! I had quite forgot all theſe Scriptures; and, ſee! that I ſhould think of them now. Is there no hopes then? No! I fear I ſhall not find a <hi>Judge</hi> ſo kind to me as I was to <hi>Wakeman:</hi> Well, I will go and prepare my ſelf for another World, for I have very little hopes of continuing long in this; I have lit<g ref="char:EOLhyphen"/>tle to ſay for my ſelf, when I come to the Gibbet, my Crimes are ſo evident, plain and notorious. But I will write my own Narrative, before I dye, that all Corrupt, Evill and Arbritary Judges, may take warning by me, how they diſpence <hi>Juſtice</hi> and execute <hi>Judgment.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93208:3"/>
+            <!-- PDF PAGE 53 -->
+         </div>
+      </body>
+   </text>
+</TEI>
